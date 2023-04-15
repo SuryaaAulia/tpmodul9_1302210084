@@ -30,3 +30,4 @@ C:\Users\surya\Documents\KPL Praktikum\tpmodul9_1302210084\tpmodul9_1302210084\o
 C:\Users\surya\Documents\KPL Praktikum\tpmodul9_1302210084\tpmodul9_1302210084\obj\Debug\net6.0\tpmodul9_1302210084.pdb
 C:\Users\surya\Documents\KPL Praktikum\tpmodul9_1302210084\tpmodul9_1302210084\obj\Debug\net6.0\tpmodul9_1302210084.genruntimeconfig.cache
 C:\Users\surya\Documents\KPL Praktikum\tpmodul9_1302210084\tpmodul9_1302210084\obj\Debug\net6.0\ref\tpmodul9_1302210084.dll
+C:\Users\surya\Documents\KPL Praktikum\tpmodul9_1302210084\tpmodul9_1302210084\bin\Debug\net6.0\Newtonsoft.Json.dll
